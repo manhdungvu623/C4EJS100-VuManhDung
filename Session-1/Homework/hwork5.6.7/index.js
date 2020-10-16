@@ -5,4 +5,4 @@ alert ('hi' + name);
 
 var firstname = prompt ('enter your first name');
 var lastname = prompt ('enter your last name');
-alert (`hi ${lastname} ${firstname}`)
+alert (`hi ${lastname} ${firstname}`);

@@ -14,4 +14,4 @@ message.toLowerCase();
 console.log(message);
 
 studentcount +=1;
-console.log(studentcount)
+console.log(studentcount);
